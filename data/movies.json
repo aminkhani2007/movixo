@@ -1,0 +1,28 @@
+[
+  {
+    "id": "custom-1770592118006",
+    "title": "یبسیب",
+    "description": "سیبسیبسی",
+    "thumbnail": "سییب",
+    "banner": "سییب",
+    "category": "فیلم سینمایی",
+    "rating": 8.5,
+    "year": "2025",
+    "duration": "1:30:00",
+    "isPremium": true,
+    "sources": [
+      {
+        "label": "1080p",
+        "url": "ییسسی"
+      }
+    ],
+    "subtitles": [
+      {
+        "id": "sub-1770592118006",
+        "label": "فارسی",
+        "lang": "fa",
+        "url": "سیب"
+      }
+    ]
+  }
+]
