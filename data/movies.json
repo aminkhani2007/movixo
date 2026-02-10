@@ -23,5 +23,22 @@
         "url": "سیب"
       }
     ]
+  },
+  {
+    "id": "m-spiderverse",
+    "title": "مرد عنکبوتیز: در میان دنیای عنکبوتی",
+    "description": "مایلز مورالز برای یک ماجراجویی حماسی دیگر به مولتی‌ورس سفر می‌کند.",
+    "thumbnail": "https://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "category": "فیلم سینمایی",
+    "rating": 8.6,
+    "year": "2023",
+    "duration": "1:30:00",
+    "isPremium": false,
+    "sources": [
+      {
+        "label": "1080p",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
   }
 ]
