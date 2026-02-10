@@ -4,5 +4,11 @@
     "durationDays": 30,
     "isUsed": false,
     "createdAt": 1770593598798
+  },
+  {
+    "code": "MVX-UVEG-XG1M",
+    "durationDays": 30,
+    "isUsed": false,
+    "createdAt": 1770765771792
   }
 ]
