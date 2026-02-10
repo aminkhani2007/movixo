@@ -10,5 +10,11 @@
     "durationDays": 30,
     "isUsed": false,
     "createdAt": 1770765771792
+  },
+  {
+    "code": "MVX-YAP9-VTLD",
+    "durationDays": 90,
+    "isUsed": false,
+    "createdAt": 1770765803903
   }
 ]
