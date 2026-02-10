@@ -1,10 +1,9 @@
 [
   {
     "id": "custom-1770592118006",
-    "title": "یبسیب",
+    "title": "زوتوپیا 2",
     "description": "سیبسیبسی",
     "thumbnail": "سییب",
-    "banner": "سییب",
     "category": "فیلم سینمایی",
     "rating": 8.5,
     "year": "2025",
@@ -18,7 +17,7 @@
     ],
     "subtitles": [
       {
-        "id": "sub-1770592118006",
+        "id": "sub-1770766842670",
         "label": "فارسی",
         "lang": "fa",
         "url": "سیب"
